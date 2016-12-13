@@ -2,4 +2,6 @@
 starting tutorial of GitHub account
 
 
-learn commits in next level
+<script>Console.log("Hello World")</script>
+
+
